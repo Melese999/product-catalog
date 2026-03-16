@@ -53,6 +53,7 @@ class _MasterDetailLayout extends StatelessWidget {
           flex: 7,
           child: selectedProductId != null
               ? ProductDetailPage(
+                  key: ValueKey(selectedProductId),
                   productId: selectedProductId!,
                   showAppBar: false,
                 )
