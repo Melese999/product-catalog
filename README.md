@@ -12,7 +12,7 @@ A high-end Flutter application for browsing tech gadgets, featuring a premium Bl
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Melese999/product-catalog.git
-   cd tech_gadol_catalog
+   cd product-catalog
    ```
 
 2. **Install dependencies**:
